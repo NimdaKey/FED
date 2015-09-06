@@ -1,3 +1,4 @@
+# inline HOOK technology
 # FED
 Flash Exploit Detector(FED), or named FlashProtector.
 
